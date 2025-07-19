@@ -1,5 +1,5 @@
 {
-  "bot-name": "PRINCE-MDXI",
+  "bot-name": "NAGILU-MDXI",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ",
   "logo": "https://raw.githubusercontent.com/Mayelprince/url/main/url/1264.jpg",
   "keywords": ["bot"],
@@ -25,7 +25,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "237677224245"
+      "value": "254724752647"
     },
     
    
