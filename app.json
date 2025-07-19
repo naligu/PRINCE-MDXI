@@ -1,5 +1,5 @@
 {
-  "name": "prince-mdx",
+  "name": "nagilu-mdx",
   "version": "3.0.0",
   "description": "I am PRINCE MDX, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
   "website": "https://files.catbox.moe/ykdtkm.jpeg",
@@ -62,7 +62,7 @@
     "AUTO_REPLY_STATUS": {
       "description": "Make it 'true' if you want the bot to send message after viewing status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "STATUS_REPLY_MSG": {
       "description": "Set your status reply message to be sent after bot views status",
@@ -72,7 +72,7 @@
     "AUTO_READ_MESSAGES": {
       "description": "Enter value to 'true' for blueticking all messages, or 'commands' for blueticking only commands else false. You can set up this later using .autoread",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "PRESENCE": {
       "description": "Put 'online' for always online, 'typing' for always typing a message, 'recording' for always recording audio or 'null' to maintain your presence. You can set up this later using .presence",
