@@ -16,7 +16,7 @@ ANTI_DELETE: process.env.ANTI_DELETE || "inboxonly", // can be set to inboxonly/
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_LIKE_STATUS: process.env.AUTO_LIKE_STATUS || "true",
 AUTO_LIKE_EMOJIS: process.env.AUTO_LIKE_EMOJIS || "💛,❤️,💜,🤍,💙", //Input Yours Custom...Can be one Emoji or Multiple Emojis Separated by Commas
-AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
+AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
 STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "✅️ Status Viewed by prince-mdx", // // Input Yours custom...
 MODE: process.env.MODE || "public", // Put private or public or inbox or groups
 OWNER_NUMBER: process.env.OWNER_NUMBER || "254 724 752647", // Only 1 owner Number Here, others Add to sudo numbers...
